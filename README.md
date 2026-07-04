@@ -217,17 +217,21 @@ This dashboard enables businesses to:
 - Executive Storytelling
 
 ---
+# 👨‍💻 Author
 
-# ⭐ If you found this project helpful, consider giving it a Star!
-```
-## 👨‍💻 Author & Contact
+## Muhammad Jan
 
-**Muhammad**  
-**Data Analyst**
+**Data Analyst | Business Intelligence Enthusiast | Data Science & AI Learner**
 
 📧 **Email:**  
 [muhammad.tech.09@gmail.com](mailto:muhammad.tech.09@gmail.com)
 
-🔗 **LinkedIn:**  
-[linkedin.com/in/muhammad-jan-a98134341](https://www.linkedin.com/in/muhammad-jan-a98134341/)
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/muhammad-jan-a98134341/
 
+🐙 **GitHub:**  
+https://github.com/Muhammad-Jan
+
+---
+
+# ⭐ If you found this project helpful, consider giving it a Star!
