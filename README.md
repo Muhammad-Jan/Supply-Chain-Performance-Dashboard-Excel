@@ -78,7 +78,7 @@ This page helps identify operational bottlenecks and improve resource utilizatio
 
 The Insights page summarizes major findings and provides executive recommendations based on the dashboard analysis.
 
-Key areas include:
+### Key Areas Covered
 
 - Operational Performance
 - Warehouse Analysis
@@ -118,8 +118,8 @@ Key areas include:
 - Timeline Filters
 - Conditional Formatting
 - Dynamic Charts
-- Interactive Dashboard Design
 - KPI Cards
+- Interactive Dashboard Design
 - Data Cleaning
 - Business Analysis
 
@@ -127,7 +127,7 @@ Key areas include:
 
 # 📂 Repository Structure
 
-```
+```text
 Supply-Chain-Performance-Dashboard-Excel
 │
 ├── Dashboard File
@@ -148,17 +148,17 @@ Supply-Chain-Performance-Dashboard-Excel
 
 # 📁 Project Files
 
-## Dashboard File
+## 📊 Dashboard File
 
-📊 Supply Chain Dashboard
+**Supply Chain Dashboard.xlsx**
 
 https://github.com/Muhammad-Jan/Supply-Chain-Performance-Dashboard-Excel/blob/main/Dashboard%20File/Supply%20Chain%20Dashboard.xlsx
 
 ---
 
-## Dataset
+## 📄 Dataset
 
-📄 dirty_supply_chain_dataset.csv.xlsx
+**dirty_supply_chain_dataset.csv.xlsx**
 
 https://github.com/Muhammad-Jan/Supply-Chain-Performance-Dashboard-Excel/blob/main/Dataset/dirty_supply_chain_dataset.csv.xlsx
 
@@ -166,25 +166,16 @@ https://github.com/Muhammad-Jan/Supply-Chain-Performance-Dashboard-Excel/blob/ma
 
 # 📌 Dashboard Features
 
-✔ Executive KPI Cards
-
-✔ Interactive Slicers
-
-✔ Dynamic Charts
-
-✔ Warehouse Analysis
-
-✔ Country Cost Analysis
-
-✔ Transport Analysis
-
-✔ Monthly Trends
-
-✔ Order Status Tracking
-
-✔ Business Insights
-
-✔ Executive Recommendations
+- ✔ Executive KPI Cards
+- ✔ Interactive Slicers
+- ✔ Dynamic Charts
+- ✔ Warehouse Analysis
+- ✔ Country Cost Analysis
+- ✔ Transport Analysis
+- ✔ Monthly Trends
+- ✔ Order Status Tracking
+- ✔ Business Insights
+- ✔ Executive Recommendations
 
 ---
 
@@ -217,6 +208,7 @@ This dashboard enables businesses to:
 - Executive Storytelling
 
 ---
+
 # 👨‍💻 Author
 
 ## Muhammad Jan
